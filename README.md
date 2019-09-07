@@ -2,9 +2,9 @@
 
 Algorithm for pattern generation developed by P. A. MacKay for the Ottoman Texts Project in 1987.
 Rules adapted for modern Turkish by H. Turgut Uyar <uyar at itu.edu.tr>.
-Initiative to improve Turkish patterns by S. Ekin Kocabas <kocabas at stanford.edu>.
+Initiative to improve Turkish patterns by S. Ekin Kocabaş <kocabas at stanford.edu>.
 Pattern generation script written by Mojca Miklavec <mojca.miklavec.lists at gmail.com> in June 2008.
-Converted to Hunspell hyphenation patterns by Muratcan Simsek <mail at muratcansimsek.com.tr> in 2015.
+Converted to Hunspell hyphenation patterns by Muratcan Şimşek <mail at muratcansimsek.com.tr> in 2015.
 
 # LICENSE
 
